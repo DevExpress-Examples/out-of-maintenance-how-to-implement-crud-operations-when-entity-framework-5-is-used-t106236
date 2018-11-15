@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[Form1.cs](./CS/EntityCRUD/Form1.cs) (VB: [Form1.vb](./VB/EntityCRUD/Form1.vb))**
+<!-- default file list end -->
 # How to implement CRUD operations when Entity Framework 5+ is used
 
 
